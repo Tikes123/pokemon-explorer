@@ -25,3 +25,8 @@ npm install
 ## 📦 Run Project in Local
 
 npm run dev
+
+
+## Codesandboc.io Address
+
+https://codesandbox.io/p/github/Tikes123/pokemon-explorer/master?import=true
