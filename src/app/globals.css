@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-rgb: 243, 244, 246;
@@ -10,6 +13,8 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb));
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 @layer components {
